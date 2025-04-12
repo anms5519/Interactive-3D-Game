@@ -1,0 +1,5 @@
+{
+  "tasks": {
+    "build": "Open the Unreal Engine project file `Interactive3DGame.uproject` in Unreal Engine and use the editor to build the game."
+  }
+}

@@ -1,0 +1,6 @@
+# Required Python packages for the Interactive 3D Game project
+
+numpy
+pandas
+pygame
+unreal_engine
